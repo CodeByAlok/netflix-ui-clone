@@ -210,7 +210,7 @@ footer .questions {
     color: white;
 }
 
-@media screen and (max-width: 1300px) {
+@media screen and (max-width: 600px) {
 
     nav{
         max-width: 90vw;
@@ -267,7 +267,7 @@ footer .questions {
 
 
 
-@media screen and (max-width: 1300px) {
+@media screen and (max-width: 600px) {
 
     .footer {
         display: grid;
